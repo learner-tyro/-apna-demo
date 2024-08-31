@@ -1,3 +1,4 @@
 # -apna-demo
-this is my first git repository 
-author: Dwithi Poojary
+This is my first Git Repository.
+<br>
+Author: Dwithi Poojary
